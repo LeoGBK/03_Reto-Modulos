@@ -1,3 +1,5 @@
+import { checkEmail } from './verify'
+
 let direccion1 = "leo@academia-x.com";
 let direccion2 = "leo_academia-x.com";
 
